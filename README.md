@@ -1,4 +1,4 @@
-﻿### SpeedComparison
+﻿## SpeedComparison
 * Создать коллекции List, ArrayList и LinkedList.
 * С помощью цикла for добавить в каждую 1 000 000 элементов (1,2,3,...).
 * С помощью Stopwatch.Start() и Stopwatch.Stop() замерить длительность заполнения каждой коллекции и вывести значения на экран.
